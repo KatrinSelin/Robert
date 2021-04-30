@@ -1,0 +1,843 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16265 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Laptop/Downloads/Robert-main/Robert-main/Youth Digital
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55388
+Successfully changed project path to: C:/Users/Laptop/Downloads/Robert-main/Robert-main/Youth Digital
+C:/Users/Laptop/Downloads/Robert-main/Robert-main/Youth Digital
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 80.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Laptop/Downloads/Robert-main/Robert-main/Youth Digital/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003109 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.861 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.080 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1168 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 2.581700 ms (FindLiveObjects: 0.196100 ms CreateObjectMapping: 0.063000 ms MarkObjects: 2.202300 ms  DeleteObjects: 0.118100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Game/My Scenes/Template Scene.unity
+  artifactKey: Guid(efe3c843bcf762647a003899f9699989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Template Scene.unity using Guid(efe3c843bcf762647a003899f9699989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b515db7ed501c4736989218a7f2850a') in 0.035987 seconds
+  Import took 0.041467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005928 seconds.
+  path: Assets/My Game/My Scenes
+  artifactKey: Guid(5efa43f4cdb072041af866fb36b7112f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes using Guid(5efa43f4cdb072041af866fb36b7112f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed1f5a84ce2e28346972c12702afb46') in 0.022569 seconds
+  Import took 0.029370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011117 seconds.
+  path: Assets/My Game/My Scripts/GameScript.cs
+  artifactKey: Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/GameScript.cs using Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac7f9ec1965efeea93ebc267bf8c6c4') in 0.091545 seconds
+  Import took 0.096876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009841 seconds.
+  path: Assets/My Game/My Scenes/Template SceneSettings.lighting
+  artifactKey: Guid(cd95737f83be9a24d9207c4ec0010032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Template SceneSettings.lighting using Guid(cd95737f83be9a24d9207c4ec0010032) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'fecc8958321620dbf50e81cddda71424') in 0.029917 seconds
+  Import took 0.037889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009620 seconds.
+  path: Assets/My Game/My Scripts/New Lighting Settings.lighting
+  artifactKey: Guid(39c446cb66c6daa4d8ca0b538b3bf0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/New Lighting Settings.lighting using Guid(39c446cb66c6daa4d8ca0b538b3bf0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e578057378ec912f8b07ffb42a95c0e5') in 0.020422 seconds
+  Import took 0.026086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008196 seconds.
+  path: Assets/My Game/My Scenes/Scene 1Settings.lighting
+  artifactKey: Guid(19540618afb36f74eac8ee6cbbc819d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1Settings.lighting using Guid(19540618afb36f74eac8ee6cbbc819d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'e37def2b42936b48301ccf32fd099e71') in 0.021061 seconds
+  Import took 0.028203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008089 seconds.
+  path: Assets/My Game/My Scripts/PlayerScript.cs
+  artifactKey: Guid(72713e6c4cb934bbfab5e332c37c1666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/PlayerScript.cs using Guid(72713e6c4cb934bbfab5e332c37c1666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9123348393c223a335c1994692a10a04') in 0.024076 seconds
+  Import took 0.031118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005931 seconds.
+  path: Assets/My Game/My Prefabs
+  artifactKey: Guid(15bcf351e47564902bc7136855cd88a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs using Guid(15bcf351e47564902bc7136855cd88a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd783cca815c58835cc0731cee2dacc5b') in 0.022371 seconds
+  Import took 0.030549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009215 seconds.
+  path: Assets/My Game/My Prefabs/Example.prefab
+  artifactKey: Guid(63be310f8fa87424e8dfc9d31973799b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Prefabs/Example.prefab using Guid(63be310f8fa87424e8dfc9d31973799b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b74b7bf6749388541159548c04e930a') in 0.056877 seconds
+  Import took 0.062407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005330 seconds.
+  path: Assets/My Game/My Scenes/Title Screen.unity
+  artifactKey: Guid(779f50456e263a1498f42131c9108003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Title Screen.unity using Guid(779f50456e263a1498f42131c9108003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3755e4a1a85a9065ff0f4fb7de0b144') in 0.012786 seconds
+  Import took 0.016561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005413 seconds.
+  path: Assets/My Game/My Scripts/NPC_1.cs
+  artifactKey: Guid(3d76a58973e0d4d9593104628407e6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/NPC_1.cs using Guid(3d76a58973e0d4d9593104628407e6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3f85a921150c78b1ddd2278dd06529') in 0.012416 seconds
+  Import took 0.016089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003806 seconds.
+  path: Assets/My Game/My Scripts
+  artifactKey: Guid(a79226e1bb02aaa46968554d7aba1c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts using Guid(a79226e1bb02aaa46968554d7aba1c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05d3d400a363d14b0c73b8b566d7353') in 0.012963 seconds
+  Import took 0.016668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005484 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b131893b47f2a1c8c74261e6c8faab5c') in 0.015762 seconds
+  Import took 0.019504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.476714 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Barrel Screws.mat
+  artifactKey: Guid(bf789141d2a054748bbf9f4f92cec7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Barrel Screws.mat using Guid(bf789141d2a054748bbf9f4f92cec7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3cac50d3a2a5a2202d9270046bebc7') in 0.168300 seconds
+  Import took 0.173421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftLeftEngGho.otf
+  artifactKey: Guid(97284c35a18324de581d03f66a2abf43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftLeftEngGho.otf using Guid(97284c35a18324de581d03f66a2abf43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d947c4cd0b94b2a745c47a518913136') in 0.067285 seconds
+  Import took 0.072660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Energy_Mat.mat
+  artifactKey: Guid(ba8ae7b85cc55c24eb0afc6245e622e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Energy_Mat.mat using Guid(ba8ae7b85cc55c24eb0afc6245e622e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ee25f73db4b53626d0525dcaed2e97') in 0.032553 seconds
+  Import took 0.037983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Main_Mat.mat
+  artifactKey: Guid(87672ca80ce2ad84285367c33635e8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Main_Mat.mat using Guid(87672ca80ce2ad84285367c33635e8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7a9c54f75b73b1429f6b3fad4871eb') in 0.031469 seconds
+  Import took 0.037099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftLeftEng.otf
+  artifactKey: Guid(9c1ca00e8b4d841fe9d3dd7965069868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftLeftEng.otf using Guid(9c1ca00e8b4d841fe9d3dd7965069868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829fb31aef3e7d18e6ea460200d0565a') in 0.022825 seconds
+  Import took 0.026925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(31785a682b3e24009b1276dc8f3d6d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Trim_Mat.mat using Guid(31785a682b3e24009b1276dc8f3d6d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70d059fb0d124788282a1280e09da02') in 0.018417 seconds
+  Import took 0.022118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Main_Mat.mat
+  artifactKey: Guid(b8695db48be82b1408b7d0582f6dc7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Main_Mat.mat using Guid(b8695db48be82b1408b7d0582f6dc7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451d080319be8e9f238658ed4549fed2') in 0.019500 seconds
+  Import took 0.023018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(cff6f37126376054ebd3d130db14b93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Trim_Mat.mat using Guid(cff6f37126376054ebd3d130db14b93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af636f735dc5a151daad8dc1a72530e5') in 0.011775 seconds
+  Import took 0.015035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Wing_Mat.mat
+  artifactKey: Guid(6672968ba277dd741b493d5c86570a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Wing_Mat.mat using Guid(6672968ba277dd741b493d5c86570a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d1b12d61cf122e556391f19dc5eb96') in 0.018482 seconds
+  Import took 0.021973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Wing_Mat.mat
+  artifactKey: Guid(60bb5fcb292dbc444947d44583e09a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Wing_Mat.mat using Guid(60bb5fcb292dbc444947d44583e09a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2388fc920e905c4877318cb2c34e0df0') in 0.191167 seconds
+  Import took 0.195510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/My Game/My Materials/Items/Barrel Screws.mat
+  artifactKey: Guid(ef8404720d8a748258f2d19341bca4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Items/Barrel Screws.mat using Guid(ef8404720d8a748258f2d19341bca4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e86521ba6fbec326aecbada0e1c437d') in 0.016884 seconds
+  Import took 0.021445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Base_Mat.mat
+  artifactKey: Guid(6e2e1d9477e294d40a209bc81fa49365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Base_Mat.mat using Guid(6e2e1d9477e294d40a209bc81fa49365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c5e0cd8661606ec368d72e84f45c8d') in 0.024762 seconds
+  Import took 0.029589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Main_Mat.mat
+  artifactKey: Guid(76a4e01297ab2b44ab1ddd24666e53cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Main_Mat.mat using Guid(76a4e01297ab2b44ab1ddd24666e53cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1118a32926a62c8dea174267c758b3') in 0.023778 seconds
+  Import took 0.028700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Second_Mat.mat
+  artifactKey: Guid(7cd4c6e7f2af2184bb0bbf18263c6f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Second_Mat.mat using Guid(7cd4c6e7f2af2184bb0bbf18263c6f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3a3854e92e1eaae3bb97217aa939e7') in 0.027601 seconds
+  Import took 0.032565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftBreitGhost.otf
+  artifactKey: Guid(352479468fbe2407ca8e1a650184673c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftBreitGhost.otf using Guid(352479468fbe2407ca8e1a650184673c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1474061590626c0c39c983f221800179') in 0.030572 seconds
+  Import took 0.035765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/My Game/My Materials/Environment/Factory/Converyor Belt Screw.mat
+  artifactKey: Guid(876ee35ab30d94e8aa23b1941d6622f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Factory/Converyor Belt Screw.mat using Guid(876ee35ab30d94e8aa23b1941d6622f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1a78d4bf209666fa93925b0562ed73') in 0.036044 seconds
+  Import took 0.041258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftEngGhost.otf
+  artifactKey: Guid(760e983a8113c4c63a140bdb875ad898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftEngGhost.otf using Guid(760e983a8113c4c63a140bdb875ad898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa94c0e278ad3b23de74289a57ab023') in 0.031289 seconds
+  Import took 0.036383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Materials/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(3c9d70c30ac0ef7438ee0decc3be52f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Echo/Materials/F_Scfi_Hero_Trim_Mat.mat using Guid(3c9d70c30ac0ef7438ee0decc3be52f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9e5e9d604bece7bb153e66976cfb88') in 0.027949 seconds
+  Import took 0.033137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Game Library/Prefabs/Items/Misc/Cutscene.prefab
+  artifactKey: Guid(e7a08db9bc29747c48fb743d059a449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Misc/Cutscene.prefab using Guid(e7a08db9bc29747c48fb743d059a449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6731e3f14a05968b97440d4968caf14c') in 0.015516 seconds
+  Import took 0.019448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Clover/Clover_Model.fbx
+  artifactKey: Guid(a3b930ff42d3ce54fa97a2b60ab985e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Clover/Clover_Model.fbx using Guid(a3b930ff42d3ce54fa97a2b60ab985e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0a694a8c6c9b0feaa012c74ba4adf1') in 0.187147 seconds
+  Import took 0.192333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Energy_Mat.mat
+  artifactKey: Guid(82333e222955135409e73a66e5020804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Energy_Mat.mat using Guid(82333e222955135409e73a66e5020804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9d384bf4f47fca2d6d27a9cbb4c83e') in 0.031772 seconds
+  Import took 0.037251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Main_Mat_001.mat
+  artifactKey: Guid(3395280c27575ee418633de475cc80e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Main_Mat_001.mat using Guid(3395280c27575ee418633de475cc80e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c1a4baf9154672493542df7c726875') in 0.037606 seconds
+  Import took 0.045944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Game Library/Prefabs/Coding/Cutscene_Helper.prefab
+  artifactKey: Guid(82507a41499df470eadd1e98e4438ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Coding/Cutscene_Helper.prefab using Guid(82507a41499df470eadd1e98e4438ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cbec92f48cacd50e1aae91719dd37c') in 0.024411 seconds
+  Import took 0.031152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Second_Mat.mat
+  artifactKey: Guid(89cb26ff28fd03c48912ae6e8834315f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Second_Mat.mat using Guid(89cb26ff28fd03c48912ae6e8834315f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb56efcefe8c2ac400e8993f26044925') in 0.021280 seconds
+  Import took 0.028211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Tri.mat
+  artifactKey: Guid(48db7e009a70e2a46b307e28bdf20c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Tri.mat using Guid(48db7e009a70e2a46b307e28bdf20c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5440223c98c96202ccd10b8dbb1046') in 0.024088 seconds
+  Import took 0.030221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftBreit.otf
+  artifactKey: Guid(26833746d491e48f7a35edcffd123d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftBreit.otf using Guid(26833746d491e48f7a35edcffd123d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd766990c7b19734709b915333f2d1bd6') in 0.027858 seconds
+  Import took 0.032775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Wing_Mat.mat
+  artifactKey: Guid(639dca256df15094ab3151c48aa97fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Wing_Mat.mat using Guid(639dca256df15094ab3151c48aa97fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfe13321ea0216340f2968c9f7251ae') in 0.029028 seconds
+  Import took 0.034834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftBreitLeftGho.otf
+  artifactKey: Guid(0a6801968826a4d1089674f0dd6a304d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftBreitLeftGho.otf using Guid(0a6801968826a4d1089674f0dd6a304d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844582f29a12ebfd69942ff129ffd983') in 0.031042 seconds
+  Import took 0.035885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(f3828a87f8cead445aeb2e0c61eb9418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Trim_Mat.mat using Guid(f3828a87f8cead445aeb2e0c61eb9418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd772543a7987b487bd334e438e7307fd') in 0.016601 seconds
+  Import took 0.021076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Main_Mat.mat
+  artifactKey: Guid(bbd86465056410d46a1c86581d651474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/F_Scfi_Hero_Main_Mat.mat using Guid(bbd86465056410d46a1c86581d651474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55ee0050c031574160bc0de9d490dbf') in 0.025832 seconds
+  Import took 0.031363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Echo/Materials/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(2161f71c10e9b5f4684bc861d063606f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Echo/Materials/F_Scfi_Hero_Trim_Mat.mat using Guid(2161f71c10e9b5f4684bc861d063606f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a7f7258ed3424bf9584eac5934d43e') in 0.022435 seconds
+  Import took 0.026720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Wing_Mat.mat
+  artifactKey: Guid(8fc10abd2e42f2c4a9574f28f31e2e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Wing_Mat.mat using Guid(8fc10abd2e42f2c4a9574f28f31e2e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea1e07c827be93f9fa997712726c202') in 0.015268 seconds
+  Import took 0.019619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Game Library/Audio/Music/Get_Ready_Selector_Screen__30s_Loop_Music.ogg
+  artifactKey: Guid(7c8c9976095785f4780724a934a0e14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Get_Ready_Selector_Screen__30s_Loop_Music.ogg using Guid(7c8c9976095785f4780724a934a0e14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288a1ebfbd3a54027eab1ad78a95c960') in 0.054583 seconds
+  Import took 0.059287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(89d6e3d1e5b29bb45b1f982da92acec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Trim_Mat.mat using Guid(89d6e3d1e5b29bb45b1f982da92acec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34bbebac825b23ca3a595b16a3c1769') in 0.012958 seconds
+  Import took 0.016690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Base_Mat.mat
+  artifactKey: Guid(58ecc1c7b9811d14d9a8006f86ed5bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Materials/Clover/F_Scfi_Hero_Base_Mat.mat using Guid(58ecc1c7b9811d14d9a8006f86ed5bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24bbc4671b9b315dde16ce6d6fd1892') in 0.019815 seconds
+  Import took 0.023694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Tri.mat
+  artifactKey: Guid(cca2c72f18de02145b2e28985cd08c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Tri.mat using Guid(cca2c72f18de02145b2e28985cd08c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20560f39b1fde2da95ff9988ecde31f5') in 0.013928 seconds
+  Import took 0.017679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Energy_Mat.mat
+  artifactKey: Guid(178b544f1c95e7a42b2eb4cd7cdb3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/Materials/F_Scfi_Hero_Energy_Mat.mat using Guid(178b544f1c95e7a42b2eb4cd7cdb3610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e6ca75121ee7087b3537811b335c48') in 0.022412 seconds
+  Import took 0.026477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Game Library/Fonts/DINKursivschriftEng.otf
+  artifactKey: Guid(0f1a67f02440844049eed1755022d29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DINKursivschriftEng.otf using Guid(0f1a67f02440844049eed1755022d29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4811e6d41c09be9184cfd3b7035533') in 0.023739 seconds
+  Import took 0.028182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Hero_Scfi_Mat.mat
+  artifactKey: Guid(c4fe93535b59ced4b830a5f3afb883ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Hero_Scfi_Mat.mat using Guid(c4fe93535b59ced4b830a5f3afb883ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3a7245c5fb52a1d8ee7e842b55076d') in 0.023453 seconds
+  Import took 0.027691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Base_Mat.mat
+  artifactKey: Guid(08adb16c5f31a9a47b3fe37b77b65703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Hero/Clover/Materials/F_Scfi_Hero_Base_Mat.mat using Guid(08adb16c5f31a9a47b3fe37b77b65703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36ee0b21da255917215cf024289411b') in 0.013497 seconds
+  Import took 0.017667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Trim_Mat.mat
+  artifactKey: Guid(07f0262fa0482e445b37c7bb49502145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Futuristic/Hero/Clover/F_Scfi_Hero_Trim_Mat.mat using Guid(07f0262fa0482e445b37c7bb49502145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce44da7d1e1b1ac52df9b685ef75338') in 0.018093 seconds
+  Import took 0.021781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Game Library/Fonts/DinKursivschriftBreitLeft.otf
+  artifactKey: Guid(cb95d6de81d2244a69f03d30e871cfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Fonts/DinKursivschriftBreitLeft.otf using Guid(cb95d6de81d2244a69f03d30e871cfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d642561f15aa156a748bf909efb3be') in 0.031161 seconds
+  Import took 0.035207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.214197 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9c3f32cb9c8528af42138bbb888bab') in 0.003944 seconds
+  Import took 0.007094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.317064 seconds.
+  path: Assets/My Game/My Scripts/GameScript.cs
+  artifactKey: Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/GameScript.cs using Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2707131eb66beaeac1efc734dc9c34b9') in 0.032860 seconds
+  Import took 0.047200 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1679.
+Total: 27.822500 ms (FindLiveObjects: 0.555700 ms CreateObjectMapping: 0.357000 ms MarkObjects: 26.856700 ms  DeleteObjects: 0.049900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.280599 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958086d32ff9ccbc8b68867689f0da53') in 0.044853 seconds
+  Import took 0.051776 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009095 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1682.
+Total: 2.162900 ms (FindLiveObjects: 0.189300 ms CreateObjectMapping: 0.056400 ms MarkObjects: 1.893800 ms  DeleteObjects: 0.021800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.063001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 8.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.443 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1685.
+Total: 2.530000 ms (FindLiveObjects: 0.237500 ms CreateObjectMapping: 0.098500 ms MarkObjects: 2.171100 ms  DeleteObjects: 0.020800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.319 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 2.976300 ms (FindLiveObjects: 0.224200 ms CreateObjectMapping: 0.058600 ms MarkObjects: 2.668400 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.409806 seconds.
+  path: Assets/My Game/My Scenes/Scene 1Settings.lighting
+  artifactKey: Guid(19540618afb36f74eac8ee6cbbc819d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1Settings.lighting using Guid(19540618afb36f74eac8ee6cbbc819d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'a1ab33379e2240707b3e20298c599d05') in 0.016123 seconds
+  Import took 0.019455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005794 seconds.
+  path: Assets/My Game/My Scripts/PlayerScript.cs
+  artifactKey: Guid(72713e6c4cb934bbfab5e332c37c1666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/PlayerScript.cs using Guid(72713e6c4cb934bbfab5e332c37c1666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1365300fee594f03cbabc2499822356d') in 0.003732 seconds
+  Import took 0.006871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028540 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629f3a1af95f578cf32ec59d1a121eb3') in 0.009353 seconds
+  Import took 0.013000 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003858 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.513 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 3.599200 ms (FindLiveObjects: 0.426000 ms CreateObjectMapping: 0.061800 ms MarkObjects: 3.085700 ms  DeleteObjects: 0.023300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003755 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.352 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 3.076600 ms (FindLiveObjects: 0.233800 ms CreateObjectMapping: 0.056300 ms MarkObjects: 2.763700 ms  DeleteObjects: 0.021000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.751676 seconds.
+  path: Assets/My Game/My Scripts/GameScript.cs
+  artifactKey: Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scripts/GameScript.cs using Guid(416d3cc090492f943bf69f179f02054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d28511bbd34832d01d6f087707ec8f4') in 0.006571 seconds
+  Import took 0.010029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044023 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40831c12ae475fe0f67d0bf221ec9e3') in 0.010828 seconds
+  Import took 0.013954 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003913 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.471 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1697.
+Total: 2.241600 ms (FindLiveObjects: 0.204400 ms CreateObjectMapping: 0.055400 ms MarkObjects: 1.960600 ms  DeleteObjects: 0.019700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 7.437400 ms (FindLiveObjects: 0.520000 ms CreateObjectMapping: 0.194700 ms MarkObjects: 6.670200 ms  DeleteObjects: 0.048800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.460 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 2.327000 ms (FindLiveObjects: 0.190600 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.060100 ms  DeleteObjects: 0.020100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.629 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.6 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1706.
+Total: 3.389700 ms (FindLiveObjects: 0.264800 ms CreateObjectMapping: 0.078400 ms MarkObjects: 3.021200 ms  DeleteObjects: 0.023200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 411.735096 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfcf43f847a508ebfa5d5d6da33626eb') in 0.033518 seconds
+  Import took 0.040976 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.500 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.6 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1709.
+Total: 4.127400 ms (FindLiveObjects: 0.371800 ms CreateObjectMapping: 0.117400 ms MarkObjects: 3.602100 ms  DeleteObjects: 0.033300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
